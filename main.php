@@ -27,6 +27,7 @@ ini_set('display_errors', true);
 
     <style>
   		html {
+			background: ##8BD1ED;
   			background: url("weather_background.jpg") no-repeat center center;
   			-webkit-background-size: cover;
   			-moz-background-size: cover;
